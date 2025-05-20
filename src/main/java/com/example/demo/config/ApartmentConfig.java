@@ -69,7 +69,6 @@ public class ApartmentConfig {
 
                 apartment.setBillIds(new HashSet<>());
                 apartment.setResidentIds(new HashSet<>());
-                apartment.setParkingRentals(new ArrayList<>());
 
                 apartments.add(apartment);
             }
